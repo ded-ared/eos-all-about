@@ -1,11 +1,13 @@
-# Elementary OS Settings, Apps and More
+# Elementary OS: Настройки, приложения, полезные ништяки
 
-Here you can find some useful stuff I use for Elementary OS.
+Мне очень нравится [**Elementary OS**](https://elementary.io), однако пришлось повозиться, чтобы допилить ее под себя.
 
-* Disk partition when installing OS.   
-* Apps and the way to install them.   
-* Customizations.   
-* Useful sources and more.
+Решил собрать тут все самое важное, что нужно мне для комфортного пользования системой: приложения, настройки, плюс - собрал способы решения некоторых проблем, с которыми столкнулся сам.
 
-| ⚠️ Mind that all of these are my personal choice. Some of them, you might not need, some of them would be useless for you at all. |
-|:---|
+Описал все процедуры по-дилетантски. Я любитель, а не крутой спец. Возможно, будет полезно кому-то. Некоторые вещи долго искал, поэтому тупо не хочется инфу потерять.
+
+Особо продвинутые и так шарят, конечно. Но, возможно, кому-то пригодится.
+
+Содержание позже сделаю тут на все разделы, как построю.
+
+![elementary-desktop](https://github.com/ded-ared/eos-all-about/blob/main/images/elementary-desktop.png "Elementary-desktop")
