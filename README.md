@@ -10,4 +10,4 @@
 
 Содержание позже сделаю тут на все разделы, как построю.
 
-![elementary-desktop](https://github.com/ded-ared/eos-all-about/blob/main/images/elementary-desktop.png "Elementary-desktop")
+![elementary-desktop]( "Elementary-desktop")
