@@ -28,6 +28,8 @@
 2. Добавьте в него строку:   
 `GRUB_RECORDFAIL_TIMEOUT=0`
 
+![grub](https://github.com/ded-ared/eos-all-about/blob/main/images/grub-setup.png)
+
 3. В терминале обновите GRUB командой:   
 `sudo update-grub`
 
