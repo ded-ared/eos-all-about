@@ -155,7 +155,7 @@ sudo apt install -y pantheon-tweaks
 
 ![pt-tweaks-in](https://github.com/ded-ared/eos-all-about/blob/main/images/pantheon-tweaks-in-settings.png)
 
-Теперь можно приступать к дополнительнм настройкам. (Лично я первым делом поменял шрифт по умолчанию на Open Sans, штатный Inter очень уж "мыльный").
+Теперь можно приступать к дополнительнм настройкам. (Лично я первым делом поменял шрифт по умолчанию на **Open Sans**. Штатный **Inter** очень уж "мыльный").
 
 ## Установить дополнительные настройки GNOME
 
