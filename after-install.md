@@ -181,4 +181,41 @@ gnome-tweaks
 
 ![gnome-settings](https://github.com/ded-ared/eos-all-about/blob/main/images/gnome-settings.png)
 
+---
 
+## Подключить поддержку тем GTK для QT приложений
+
+Elementary OS основана на Ubuntu 22.04 и использует библиотеки GTK. Иногда бывает нужно установить программу, которая основана на Qt. Основное разочарование возникает, когда видишь, что свежеустановленное приложение (например, Ksnip, qBittorrent и др.) не вписывается в общий стиль системы, не поддерживает темы, значки и т.д.
+
+Чтобы хоть немного это исправить, можно установить средство настройки Qt. В моем случае Qt5.
+
+1. В терминале выполните:
+
+```
+sudo apt install qt5-style-plugins qt5ct
+```
+
+2. Запустите приложение командой:
+
+```
+qt5ct
+```
+
+Можно настраивать и сразу понимать, как меняется вид Qt приложений.
+
+![qt-settings](https://github.com/ded-ared/eos-all-about/blob/main/images/qt5-setting.png)
+
+⚠️ Примечание:   
+Если программа настройки будет ругаться и требовать что-то там заменить или отключить, подправьте файлы в папке ~/etc/
+
+⚠️ Файлы нужно открыть от имени администратора.
+
+В файле: `/etc/profile.d/qt-style-override.sh`
+
+удалите строку:`export QT_STYLE_OVERRIDE=adwaita`
+
+В файле: `/etc/profile.d/qt-qpa-platformtheme.sh`
+
+должно быть так: `export QT_QPA_PLATFORMTHEME=qt5ct`
+
+---
