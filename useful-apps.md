@@ -4,7 +4,7 @@
 
 Собственно, раздел создал затем, чтобы эти репозитории потом не искать.
 
-
+---
 
 ## KeePassXC - Менеджер паролей
 
@@ -14,6 +14,10 @@
 sudo add-apt-repository ppa:phoerious/keepassxc
 sudo apt install keepassxc
 ```
+
+![keepassxc](https://github.com/ded-ared/eos-all-about/blob/main/images/keepassxc.png)
+
+---
 
 ## Firefox
 
@@ -70,3 +74,6 @@ https://easylist-downloads.adblockplus.org/cntblock.txt
 Как импортировать в другие блокировщики — не подскажу, но наверно не сложнее, чем в **ublock**.
 
 ---
+
+
+
