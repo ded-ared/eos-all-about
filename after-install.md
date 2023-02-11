@@ -127,7 +127,7 @@ APT — это конечно хорошо, но так или иначе, Flatp
 
 Штатные системные настройки Elementary сведены к минимальному набору. С помощью [Pantheon Tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks) можно этот набор расширить и получить дополнительные возможности.
 
-![pt-tweaks](https://github.com/ded-ared/eos-all-about/blob/main/images/pantheon-tweaks.png)
+![pt-tweaks]()
 
 Например, после установки Pantheon Tweaks вы сможете:
 
@@ -150,5 +150,5 @@ sudo apt install -y pantheon-tweaks
 
 3. Откройте "Параметры системы". Там добавится дополнительный раздел **Твики**
 
-![pt-tweaks-in](https://github.com/ded-ared/eos-all-about/blob/main/images/pantheon-tweaks-in-settings.png)
+![pt-tweaks-in]()
 
