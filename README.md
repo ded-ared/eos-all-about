@@ -6,9 +6,9 @@
 
 ## Содержание
 
-* [Решение возможных проблем при установке Elementary OS](/ded-ared/eos-all-about/blob/main/before-install.md)
+* [Решение возможных проблем при установке Elementary OS](/before-install.md)
 
-* [Настройка Elementary OS после установки](/ded-ared/eos-all-about/blob/main/after-install.md)
+* [Настройка Elementary OS после установки](/after-install.md)
 
 * Полезные команды для терминала
 
