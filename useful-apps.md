@@ -189,6 +189,31 @@ sudo apt install gimp
 
 ---
 
+## qBittorrent - Торрент качалка
 
+Тут без комментариев. [qBittorrent](https://www.qbittorrent.org/) - лучший вариант, чтобы качать с торрент трекеров, как по мне.
 
+Установить вот так:
+
+```
+sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
+sudo apt update
+sudo apt install qbittorrent
+```
+
+---
+
+## Foliate - Читалка книг
+
+[Foliate](https://johnfactotum.github.io/foliate/) - замечательная читалка книг с библиотеками, где можно бесплатно накачать книжек на английском. Читать книги с компьютера конечно же можно тоже.
+
+Установить вот так:
+
+```
+sudo add-apt-repository ppa:apandada1/foliate
+sudo apt update
+sudo apt install foliate
+```
+
+![foliate](https://github.com/ded-ared/eos-all-about/blob/main/images/foliate.png)
 
