@@ -147,7 +147,8 @@ sudo add-apt-repository -y ppa:philip.scott/pantheon-tweaks
 sudo apt install -y pantheon-tweaks
 ```
 
-3. Откройте "Параметры системы". Там добавится дополнительный раздел **Твики**
+3. Откройте "Параметры системы". Там появится дополнительный раздел **Твики**
 
 ![pt-tweaks-in](https://github.com/ded-ared/eos-all-about/blob/main/images/pantheon-tweaks-in-settings.png)
 
+Теперь можно приступать к дополнительнм настройкам. (Лично я первым делом поменял шрифт по умолчанию на Open Sans, штатный Inter очень уж "мыльный").
