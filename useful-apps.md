@@ -34,13 +34,13 @@ sudo apt install -t 'o=LP-PPA-mozillateam' firefox
 Здесь нужно с помощью параметра `-t` явно указать, откуда устанавливать программу.   
 После установки можно поднять приоритет этого репозитория.
 
-Для этого создайте файл `/etc/apt/preferences.d/mozillateamppa` командой
+3. Для этого создайте файл `/etc/apt/preferences.d/mozillateamppa` командой
 
 ```
 sudo vi /etc/apt/preferences.d/mozillateamppa
 ```
 
-Добавьте в него следующее содержание:
+4. Добавьте в созданный файл следующее содержание:
 
 ```
 Package: firefox*
