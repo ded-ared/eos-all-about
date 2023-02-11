@@ -126,6 +126,8 @@ sudo apt install lm-sensors
 
 5. Создайте в домашней папке папку `~/.fonts/`, если еще этого не сделали и положите туда шрифты из скачанного каталога `/revolutionary_clocks/fonts`
 
+![conky-folder](https://github.com/ded-ared/eos-all-about/blob/main/images/conky-home-folder.png)
+
 6. Перейдите в **Параметры системы → Приложения → Автозапуск** и добавьте по отдельности следующие команды в автозагрузку:
 
 ```
