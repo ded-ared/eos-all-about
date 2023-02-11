@@ -86,7 +86,7 @@ https://easylist-downloads.adblockplus.org/cntblock.txt
 
 ⚠️ Рекомендую [скачать deb пакет](https://github.com/ksnip/ksnip/releases) и установить из него. Через репозиторий можно устанавливать только для систем на UBUNTU до 21 версии.
 
-![ksnip]()
+![ksnip](https://github.com/ded-ared/eos-all-about/blob/main/images/ksnip.png)
 
 🔵 Если не понравится, можно попробовать [Shutter](https://shutter-project.org/), репозиторий для Elementary OS7 есть уже в системе, можно установить через `sudo apt install shutter`.
 
