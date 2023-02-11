@@ -149,7 +149,7 @@ sudo add-apt-repository -y ppa:philip.scott/pantheon-tweaks
 sudo apt install -y pantheon-tweaks
 ```
 
-3. Откройте "Параметры системы". Там появится дополнительный раздел **Твики**
+3. Откройте **Параметры системы**. Там появится дополнительный раздел **Твики**
 
 ![pt-tweaks-in](https://github.com/ded-ared/eos-all-about/blob/main/images/pantheon-tweaks-in-settings.png)
 
