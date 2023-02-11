@@ -60,7 +60,7 @@ Pin-Priority: 501
 
 ![firefox](https://github.com/ded-ared/eos-all-about/blob/main/images/firefox.png)
 
-### Избавьтесь от рекламы от Яндекса
+### Избавьтесь от рекламы Яндекса
 
 Думаю, мало кто обходится нынче без блокировщика рекламы. Лично я пользуюсь **ublock**.
 
