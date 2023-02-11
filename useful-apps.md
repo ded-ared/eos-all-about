@@ -8,21 +8,25 @@
 
 **Содержание**
 
-* [KeePassXC - менеджер паролей]()
+* [KeePassXC - менеджер паролей](#keepassxc---менеджер-паролей)
 
-* [Firefox + bonus]()
+* [Firefox + bonus](#firefox)
 
-* [Ksnip - Для снимков экрана]()
+  * [Установить тему Elementary](#установите-на-firefox-тему-elementary)
 
-* [Conky - Системный монитор]()
+  * [Избавиться от рекламы Яндекса](#избавьтесь-от-рекламы-яндекса)
 
-* [gThumb - Просмотр изображений]()
+* [Ksnip - Для снимков экрана](#ksnip---скриншотер)
 
-* [GIMP, Photopea, Photoshop - Графические редакторы]()
+* [Conky - Системный монитор](#conky---системный-монитор)
 
-* [qBittorrent]()
+* [gThumb - Просмотр изображений](#gthumb---просмотрщик-изображений)
 
-* [Foliate - Чтение книг]()
+* [GIMP, Photopea, Photoshop - Графические редакторы](#gimp-или-photopea-или-photoshop-)
+
+* [qBittorrent](#qbittorrent---торрент-качалка)
+
+* [Foliate - Чтение книг](#foliate---читалка-книг)
 
 ---
 
