@@ -70,29 +70,13 @@ sudo apt install -y software-properties-common software-properties-gtk
 
 Теперь командам [APT](https://pingvinus.ru/note/apt) есть, где развернуться. Вот несколько нужных:
 
-* Найти программу
+* Найти программу: `sudo apt search <program-name>`
 
-```
-sudo apt search <program-name>
-```
+* Установить: `sudo apt install <program-name>`
 
-* Установить
+* Удалить: `sudo apt remove <program-name>`
 
-```
-sudo apt install <program-name>
-```
-
-* Удалить
-
-```
-sudo apt remove <program-name>
-```
-
-* Или удалить с тщательной подчисткой следов программы в системе:
-
-```
-sudo spt purge <program-name>
-```
+* Или удалить с тщательной подчисткой следов программы в системе: `sudo spt purge <program-name>`
 
 |  🛈   Подробнее о командах APT можете почитать [здесь](https://pingvinus.ru/note/apt).  |
 |---|
