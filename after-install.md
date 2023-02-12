@@ -215,14 +215,14 @@ qt5ct
 
 ![qt-settings](https://github.com/ded-ared/eos-all-about/blob/main/images/qt5-setting.png)
 
->
-> ⚠️ Если программа настройки будет ругаться и требовать что-то там заменить или отключить, подправьте файлы в папке `~/etc/`
->
+⚠️ Если программа настройки будет ругаться (в верхней части появится сообщение, что программа не настроена, а по клику всплывет инфо окно):
 
-Файлы нужно открыть от имени администратора.
+![qt-error](https://github.com/ded-ared/eos-all-about/blob/main/images/qt-error.png)
 
-* В файле: `/etc/profile.d/qt-style-override.sh` удалите строку: `export QT_STYLE_OVERRIDE=adwaita`
+подправьте файлы в папке `~/etc/`, открыв их от имени администратора.
 
-* В файле: `/etc/profile.d/qt-qpa-platformtheme.sh` должно быть так: `export QT_QPA_PLATFORMTHEME=qt5ct`
+* В файле `/etc/profile.d/qt-style-override.sh` удалите строку `export QT_STYLE_OVERRIDE=adwaita` и сохраните.
+
+* В файле `/etc/profile.d/qt-qpa-platformtheme.sh` должно быть так: `export QT_QPA_PLATFORMTHEME=qt5ct` и сохраните.
 
 ---
