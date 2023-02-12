@@ -105,7 +105,7 @@ https://easylist-downloads.adblockplus.org/cntblock.txt
 
 После долгих поисков, я остановился на [Ksnip](https://github.com/ksnip/ksnip) (более-менее сносно). Это приложение использует библиотеки Qt, поэтому будет не лишним воспользоваться [Qt адаптером](/after-install.md#подключить-поддержку-тем-gtk-для-qt-приложений).
 
-> ⚠️ Рекомендую [скачать deb пакет](https://github.com/ksnip/ksnip/releases) и установить из него.
+> ⚠️ Рекомендую [скачать deb пакет](https://github.com/ksnip/ksnip/releases) и установить из него. Как установить программу из скачанного DEB пакета, можете прочитать [здесь](https://help.reg.ru/support/servery-vps/oblachnyye-servery/ustanovka-programmnogo-obespecheniya/ustanovka-programm-i-paketov-formata-deb#2).
 
 ![ksnip](https://github.com/ded-ared/eos-all-about/blob/main/images/ksnip.png)
 
