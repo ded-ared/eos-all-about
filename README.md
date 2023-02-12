@@ -6,6 +6,10 @@
 
 ## Содержание
 
+* [Официальный сайт Elementary OS](https://elementary.io)
+
+* [Сообщество Elementary ВКонтакте (кажется, заброшенное, но что-то полезное найти можно)](https://vk.com/elementary_os)
+
 * [Решение возможных проблем при установке Elementary OS](/before-install.md#решение-возможных-проблем-при-установке-elementary-os)
 
 * [Настройка Elementary OS после установки](/after-install.md#настройка-elementary-os-после-установки)
