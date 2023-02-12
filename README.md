@@ -12,11 +12,9 @@
 
 * [Установка полезных приложений](useful-apps.md)
 
-![elementary-desktop](https://github.com/ded-ared/eos-all-about/blob/main/images/elementary-desktop.png "Elementary-desktop")
+На данный момент у меня установлена версия Elementary OS 7 Horus, поэтому все, описанное здесь, относится к этой версии ОС, но должно быть актуально и для остальных (за редким исключением).
 
-На данный момент у меня установлена версия Elementary OS 7 Horus, поэтому все описанное далее относится к этой версии ОС, но должно быть актуально и для остальных (за редким исключением).
-
-![version](https://github.com/ded-ared/eos-all-about/blob/main/images/system.png)
+![elementary-desktop](https://github.com/ded-ared/eos-all-about/blob/main/images/elementary-desktop-1.png)
 
 > **⚠️ Примечание:**
 > 
