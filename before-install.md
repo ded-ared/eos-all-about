@@ -31,12 +31,12 @@
 | 3     | 8 GB     | linux-swap  |             | swap      |
 | 4     | All      | btrfs       | /home       |           |
 
+![gparted](https://github.com/ded-ared/eos-all-about/blob/main/images/gparted-disk-partition.png)
+
 > **⚠️ Примечание:**
 >
 >Объем под ROOT и SWAP, файловую систему под ROOT и HOME выбирайте по своим потребностям и на свое усмотрение. Аналогично с видами и количеством разделов. Флаги, если что, можно присвоить после разметки в программе установки.
 >
-
-![gparted](https://github.com/ded-ared/eos-all-about/blob/main/images/gparted-disk-partition.png)
 
 ---
 
