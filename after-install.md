@@ -238,7 +238,7 @@ qt5ct
 В терминале выполните:
 
 ```
-sudo apt install ubuntu-restricted-extras:
+sudo apt install ubuntu-restricted-extras
 ```
 
 ---
