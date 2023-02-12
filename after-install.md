@@ -226,3 +226,20 @@ qt5ct
 * В файле `/etc/profile.d/qt-qpa-platformtheme.sh` должно быть так: `export QT_QPA_PLATFORMTHEME=qt5ct` и сохраните.
 
 ---
+
+## Вернуть системный трей
+
+В Elementary OS, как вы заметили, отсутствует возможность сворачивать приложения в системный трей. Там остались только те опции, которые разработчики оставили штатно (прибили гвоздями).
+
+Лично я к этому уже привык и легко обхожусь без трея. Однако, если он вам жизненно необходим, можете рискнуть и попробовать его вернуть.
+
+> ⚠️ Внимание!
+> 
+> Сам я описанные способы не пробовал. Пишут, что это работало в версиях Elementary до Juno. Сработает ли в Horus, неизвестно. Пробуйте на свой страх и риск!
+
+* [Возвращаем системный трей (статья из сообщества ВК)](https://vk.com/@elementary_os-vozvraschaem-sistemnyi-trei)
+
+* [Как вернуть системный трей в Elementary Juno](https://elementaryos.stackexchange.com/questions/17452/how-to-display-system-tray-icons-in-elementary-os-juno) (из англоязычного форума)
+
+* [Как убрать задвоенную иконку WiFi после подключения системного трея](https://elementaryos.stackexchange.com/questions/21547/double-wi-fi-icon-after-installing-wingpanel-indicator-ayatana) (из англоязычного форума)
+
