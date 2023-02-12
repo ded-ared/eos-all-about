@@ -215,7 +215,7 @@ qt5ct
 
 ![qt-settings](https://github.com/ded-ared/eos-all-about/blob/main/images/qt5-setting.png)
 
-⚠️ Если программа настройки будет ругаться (в верхней части появится сообщение, что программа не настроена, а по клику всплывет предупреждение):
+⚠️ Если программа настройки QT будет ругаться (в верхней части появится сообщение, что программа не настроена, а по клику всплывет предупреждение):
 
 ![qt-error](https://github.com/ded-ared/eos-all-about/blob/main/images/qt-error.png)
 
