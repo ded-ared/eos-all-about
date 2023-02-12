@@ -227,7 +227,7 @@ qt5ct
 
 * В файле `/etc/profile.d/qt-style-override.sh` удалите строку `export QT_STYLE_OVERRIDE=adwaita` и сохраните.
 
-* В файле `/etc/profile.d/qt-qpa-platformtheme.sh` должно быть так: `export QT_QPA_PLATFORMTHEME=qt5ct` и сохраните.
+* В файле `/etc/profile.d/qt-qpa-platformtheme.sh` должно быть так: `export QT_QPA_PLATFORMTHEME=qt5ct`.
 
 ---
 
