@@ -14,7 +14,7 @@
 
 * [Использование Flatpak в дистрибутивах Linux](https://linuxcool.net/instrukczii/ispolzovanie-flatpak-v-ubuntu-i-drugih-distributivah-linux/)
 
-* [Как очистить дисковое прстранство в Linux (статья на английском)](https://www.simplified.guide/linux/disk-usage-clear)
+* [Как очистить дисковое прстранство в Linux](https://www.simplified.guide/linux/disk-usage-clear) (статья на английском!)
 
 * [Полное руководство по Wine: установка и примеры использования](https://hackware.ru/?p=13977)
 
