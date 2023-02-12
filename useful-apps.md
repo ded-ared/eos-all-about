@@ -105,7 +105,7 @@ https://easylist-downloads.adblockplus.org/cntblock.txt
 
 После долгих поисков, я остановился на [Ksnip](https://github.com/ksnip/ksnip) (более-менее сносно). Это приложение использует библиотеки Qt, поэтому будет не лишним воспользоваться [Qt адаптером](/after-install.md#подключить-поддержку-тем-gtk-для-qt-приложений).
 
-> ⚠️ Рекомендую [скачать deb пакет](https://github.com/ksnip/ksnip/releases) и установить из него. Через репозиторий можно устанавливать только для систем на UBUNTU до 21 версии.
+> ⚠️ Рекомендую [скачать deb пакет](https://github.com/ksnip/ksnip/releases) и установить из него.
 
 ![ksnip](https://github.com/ded-ared/eos-all-about/blob/main/images/ksnip.png)
 
