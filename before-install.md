@@ -34,7 +34,7 @@ sha256sum elementaryos-7.0-stable.20230129rc.iso
 
 где `elementaryos-7.0-stable.20230129rc.iso` имя актуального на текущий момент файла с образом Elementary ОС.
 
-5. Полученный в терминале результат должен совпасть с [указанным на сайте](https://elementary.io/ru/docs/installation#verify-your-download).   
+Полученный в терминале результат должен совпасть с [указанным на сайте](https://elementary.io/ru/docs/installation#verify-your-download).   
 Например, для указанного выше образа, результат такой:
 
 ```
