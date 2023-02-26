@@ -28,8 +28,6 @@
 
 * [GIMP, Photopea, Photoshop - Графические редакторы](#gimp-или-photopea-или-photoshop-)
 
-* [qBittorrent](#qbittorrent---торрент-качалка)
-
 * [Foliate - Чтение книг](#foliate---читалка-книг)
 
 * [Gparted - для форматирования флешек и др.](#gparted)
@@ -216,20 +214,6 @@ sudo apt install gimp
 Там много нюансов. Сам я не устанавливал, не хочу пользоваться [Wine](https://www.winehq.org/) (который обязателен тут) по личным неосознанным причинам, но если сильно нужно, пробуйте.
 
 ![photoshop](https://github.com/ded-ared/eos-all-about/blob/main/images/photoshop.png)
-
----
-
-## qBittorrent - Торрент качалка
-
-Тут без комментариев. [qBittorrent](https://www.qbittorrent.org/) - лучший вариант, чтобы качать с торрент трекеров, как по мне.
-
-Установить вот так:
-
-```
-sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
-sudo apt update
-sudo apt install qbittorrent
-```
 
 ---
 
