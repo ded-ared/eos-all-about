@@ -8,7 +8,7 @@
 
 В доке Plank при запуске приложения (как правило, установленного через Flatpak) иногда можно обнаружить задвоенную иконку.
 
-![duplicate-icon](/home/dedared/Общедоступные/Projects/eos-all-about/images/duplicate-icon-plank.png)
+![duplicate-icon]([/home/dedared/Общедоступные/Projects/eos-all-about/images/duplicate-icon-plank.png](https://github.com/ded-ared/eos-all-about/blob/main/images/duplicate-icon-plank.png)
 
 После некоторых блужданий по сети обнаружил, что это [глюк системы](https://github.com/elementary/dock/issues/64). Чтобы от него избавиться, найдите и отредактируйте десктопный файл приложения с расширением `.desktop`, добавив в него строку `StartupWMClass=<ЗНАЧЕНИЕ>`.
 
@@ -22,7 +22,7 @@
    
    3. Наведите видоизмененный курсор на приложение и кликните по нему. В терминале появится значение, которое нужно добавить.
    
-   ![](/home/dedared/.config/marktext/images/2023-04-27-09-24-52-image.png)
+   ![](https://github.com/ded-ared/eos-all-about/blob/main/images/duplicate-icon-plank-value.png)
 
 2. Найдите и откройте в текстовом редакторе файл приложения с расширением `.desktop`.   
    У меня он оказался вот здесь (см. путь ниже). Если ваше приложение установлено через Flatpak, ищите файл в этом же направлении.
@@ -33,7 +33,7 @@
 
 3. Вставьте в конце раздела [Desktop Entry] строку `StartupWMClass=transmission-gtk`
 
-![](/home/dedared/.config/marktext/images/2023-04-27-09-37-43-image.png)
+![](https://github.com/ded-ared/eos-all-about/blob/main/images/duplicate-icon-plank-string.png)
 
 4. Сохраните изменения в файле и перезагрузите операционную систему. Можно перезапустить сеанс, но рекомендуется перезагрузка.
 
