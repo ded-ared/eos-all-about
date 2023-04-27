@@ -33,7 +33,7 @@
 
 3. Вставьте в конце раздела [Desktop Entry] строку `StartupWMClass=transmission-gtk`
 
-![](https://github.com/ded-ared/eos-all-about/blob/main/images/duplicate-icon-plank-string.png)
+   ![](https://github.com/ded-ared/eos-all-about/blob/main/images/duplicate-icon-plank-string.png)
 
 4. Сохраните изменения в файле и перезагрузите операционную систему. Можно перезапустить сеанс, но рекомендуется перезагрузка.
 
