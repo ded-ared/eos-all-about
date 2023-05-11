@@ -45,13 +45,15 @@ GRUB_RECORDFAIL_TIMEOUT=0
 
 ![grub](https://github.com/ded-ared/eos-all-about/blob/main/images/grub-setup.png)
 
-3. В терминале обновите GRUB командой:   
+3. Сохраните изменения в файле.
+
+4. В терминале обновите GRUB командой:   
 
 ```
 sudo update-grub
 ```
 
-4. Перезагрузитесь. Более GRUB вас раздражать не будет
+5. Перезагрузитесь. Более GRUB вас раздражать не будет
 
 >
 > ⚠️ Если GRUB понадобится снова, удалите добавленную строку и не забудьте `sudo update-grub`.
