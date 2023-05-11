@@ -265,7 +265,7 @@ sudo apt install gparted
 
 Кому не подойдут настройки по умолчанию, найти в сети другие — несложно. Вот так выглядит плеер у меня:
 
-![](/home/dedared/.config/marktext/images/2023-05-12-00-38-49-mpv.png)
+![](https://github.com/ded-ared/eos-all-about/blob/main/images/mpv.png)
 
 Мои настройки лежат здесь (тема Modern с некоторыми изменениями). Если устанавливали из DEB пакета, все содержимое нужно поместить в папку `/home/<ИМЯ-ПОЛЬЗОВАТЕЛЯ>/.config/mpv/`
 
