@@ -57,16 +57,13 @@ sudo apt install keepassxc
 sudo add-apt-repository ppa:mozillateam/ppa
 ```
 
-2. Установите Firefox следующей командой:
+2. Установите Firefox следующей командой (параметр `-t` явно указывает, откуда устанавливать программу):
 
 ```
 sudo apt install -t 'o=LP-PPA-mozillateam' firefox
 ```
 
-Здесь нужно с помощью параметра `-t` явно указать, откуда устанавливать программу.   
-После установки можно поднять приоритет этого репозитория.
-
-3. Для этого создайте файл `/etc/apt/preferences.d/mozillateamppa` командой
+3. После установки поднимите приоритет этого репозитория. Для этого создайте файл `/etc/apt/preferences.d/mozillateamppa` командой
 
 ```
 sudo vi /etc/apt/preferences.d/mozillateamppa
