@@ -267,7 +267,7 @@ sudo apt install gparted
 
 ![](https://github.com/ded-ared/eos-all-about/blob/main/images/mpv.png)
 
-Мои настройки лежат здесь (тема Modern с некоторыми изменениями). Если устанавливали из DEB пакета, все содержимое нужно поместить в папку `/home/<ИМЯ-ПОЛЬЗОВАТЕЛЯ>/.config/mpv/`
+Мои настройки лежат [здесь](https://github.com/ded-ared/eos-all-about/tree/main/apps-settings/mpv) (тема Modern с некоторыми изменениями). Если устанавливали из DEB пакета, все содержимое нужно поместить в папку `/home/<ИМЯ-ПОЛЬЗОВАТЕЛЯ>/.config/mpv/`
 
 Если такой папки нет, создайте.
 
