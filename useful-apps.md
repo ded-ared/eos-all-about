@@ -99,6 +99,15 @@ https://easylist-downloads.adblockplus.org/cntblock.txt
 
 ![ublock](https://github.com/ded-ared/eos-all-about/blob/main/images/ublock.png)
 
+Также добавьте вот эти строчки
+
+```
+ya.ru##.dist-overlay__content_button-theme_light.dist-overlay__content
+ya.ru##.simple-popup__overlay_shown.simple-popup__overlay_theme_modal.simple-popup__overlay
+```
+
+на вкладке "Мои фильтры".
+
 Как импортировать в другие блокировщики — не подскажу, но наверно не сложнее, чем в **ublock**.
 
 ---
